@@ -48,3 +48,5 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+    print("Calculator module executed as main program.")
+    print("This is the new feature")
